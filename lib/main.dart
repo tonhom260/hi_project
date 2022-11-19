@@ -155,7 +155,7 @@ class _MyHomePageState extends State<MyHomePage> {
               Positioned(
                   left: width*.03,
                   right: width*.03,
-                  top: height*.72,
+                  top: height*.74,
                   child: ElevatedButton(
                     style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.grey.shade200,
@@ -171,7 +171,7 @@ class _MyHomePageState extends State<MyHomePage> {
               Positioned(
                   left: width*.03,
                   right: width*.03,
-                  top: height*.78,
+                  top: height*.81,
                   child: ElevatedButton(onPressed: (){},child: Container(
                       alignment: Alignment.center,
                       height: 40,
